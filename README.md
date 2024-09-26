@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Yasith Nawodya  @Yasith8 <br>🔭I am an Undergraduate Student at University of Colombo School of Computing.<br>👀 I’m interested in JavaScript, React.js, Next.js, React Native and Flutter.<br>🌱 I’m currently Learning Web Development and Mobile Application Development. <br>📫 You can reach me by yasithnawodya9@gmail.com <br>💬 Ask me about anything  in instagram @codingwithyasith
+👋 Hi, I’m Yasith Nawodya  @Yasith8 <br>🔭I am an Undergraduate Student at University of Colombo School of Computing.<br>👀 I’m interested in JavaScript, MERN Stack, Springboot.<br>🌱 I’m currently Learning Web Development and Software Development. <br>📫 You can reach me by yasithnawodya9@gmail.com <br>💬 Ask me about anything  in instagram @codingwithyasith
 
 
 ## 🌐 Socials:
