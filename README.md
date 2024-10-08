@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Yasith Nawodya  @Yasith8 <br>🔭I am an Undergraduate Student at University of Colombo School of Computing.<br>👀 I’m interested in JavaScript, MERN Stack, Springboot.<br>🌱 I’m currently Learning Web Development and Software Development. <br>📫 You can reach me by yasithnawodya9@gmail.com <br>💬 Ask me about anything  in instagram @codingwithyasith
+👋 Hi, I’m Yasith Nawodya  @Yasith8 <br>🔭I am an Undergraduate Student at University of Colombo School of Computing.<br>
+🌍I am Intern Full-Stack Software Engineer based on Sri Lanka<br>
+👀 I’m interested in JavaScript, MERN Stack, Typescript, Springboot.<br>🌱 I am most passionate about web and software development. <br>📫 You can reach me by yasithnawodya9@gmail.com <br>💬 Ask me about anything  in instagram @codingwithyasith
 
 
 ## 🌐 Socials:
